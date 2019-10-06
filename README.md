@@ -2,7 +2,7 @@
 Simulations from 3rd year research project
 
 - These are the series of simulations I wrote in python using the MEEP module
-- They are FDTD simulations of light trasmission through a bacteria (Synechochystis)
+- They are FDTD simulations of light transmission through a bacteria (Synechochystis)
 - The majority of the simulations are 2D simulations that I used to build my model before committing it to 3D
 
 - The novelty of these simulations are that:
